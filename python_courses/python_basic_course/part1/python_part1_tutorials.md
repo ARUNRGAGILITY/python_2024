@@ -106,5 +106,3 @@ print("Printing the type of the variable")
 print(type(width))
 print(type(height))
 ```
-
-This markdown format can be used for documentation or instructional purposes. If you need any further modifications or explanations, feel free to ask!
