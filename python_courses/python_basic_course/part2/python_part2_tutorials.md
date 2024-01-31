@@ -1,4 +1,4 @@
-# Python Part2: DataTypes: List, Tuple, Set, Dictionary and Operators
+# Python Part2: Collections/DataTypes: List, Tuple, Set, Dictionary and Operators
 
 ## Python List
 A Python list is a versatile data structure which can hold an ordered sequence of elements. These elements can be of any type, including integers, strings, or even other lists. Lists are mutable, meaning they can be modified after creation. They are defined by enclosing elements in square brackets `[]`, and elements within a list are accessed by their index, with indexing starting at 0 for the first element.
